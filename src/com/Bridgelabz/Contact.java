@@ -9,9 +9,7 @@ public class Contact {
     int Zip_code;
     int Phone_number;
     String Email;
-
-    public Contact(String first_Name, String last_Name, String address, String city, String state,
-                   int zip_code, int phone_number, String email) {
+    public Contact(String first_Name, String last_Name, String address, String city, String state, int zip_code, int phone_number, String email) {
 
         this.First_Name = first_Name;
         this.Last_Name = last_Name;
