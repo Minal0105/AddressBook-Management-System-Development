@@ -5,6 +5,6 @@ import java.util.Scanner;
 public class AddressBookMain {
     public static void main(String[] args) {
         AddressBook Ab = new AddressBook();
-        Ab.AddContact();
+        Ab.EditContact();
     }
 }
